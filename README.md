@@ -1,5 +1,5 @@
 
-# Finance Analytics Dashboard | Power BI
+# FinSight | Financial Performance & Transaction Intelligence Dashboard
 
 ## Project Overview
 Developed an interactive Finance Analytics Dashboard
